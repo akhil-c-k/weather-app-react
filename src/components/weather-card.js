@@ -28,7 +28,7 @@ const weatherValue = {
 };
 const weatherValueRain = {
   icon: "RAIN",
-  color: "goldenrod",
+  color: "white",
   size: 300,
   animate: true
 };
