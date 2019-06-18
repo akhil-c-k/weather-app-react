@@ -1,0 +1,27 @@
+
+.weather-card-wrapper
+ {
+  
+   margin-top: 20px;
+   .weather-details
+     {
+       display:flex;
+       margin-top: 100px;
+       p {
+        
+         color:#ffffff;
+         font-weight:500;
+         width:100%;
+       }
+
+       .dRVqnY {
+        position: relative;
+        display: inline-block;
+         height:unset !important;
+        width: 8em !important;
+        font-size: 0.5em !important;
+    }
+     }
+ }
+
+ 

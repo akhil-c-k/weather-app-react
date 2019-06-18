@@ -1,0 +1,41 @@
+.form-card-wrapper
+ { 
+   
+   width:100%;
+   margin: 0 auto;
+   bottom:0px;
+   position: absolute;
+   .form-card-inner-wrapper
+    {
+      bottom:0px;
+   position: absolute;
+      width:100%;
+      height:80px;
+      background-color: #4e524f;
+     
+      top: 50%;
+      transform: translateY(-50%);
+      font-family: arial;
+      font-size: 30px;
+      line-height: 1.8em;
+      form 
+        {
+          .form-card-text
+            {
+              padding: 7px 15px;
+              margin: 0px 5px;
+              border:1px solid #f5f5f5;
+              border-radius: 4px;
+            }
+
+            button {
+              padding: 8px 15px;
+              background-color: #daa520;
+              border:1px solid #daa520;
+              border-radius: 4px;
+              color:#ffffff;
+              font-weight:600;
+            }
+        }
+    }
+ }
